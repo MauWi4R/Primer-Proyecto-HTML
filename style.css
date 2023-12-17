@@ -1,0 +1,11 @@
+body{ 
+/*Comentario */
+    background-color: #C6D3FF;
+}
+h3{color: #940F87;}
+p{font-size: 20px;}
+
+.h31 {color: black;}
+
+#Imagen_GATO {border-radius: 50px; width: 300px; border: solid; color:#940F87;}
+#MiShinji {border-radius: 100%; height: 500px;}
